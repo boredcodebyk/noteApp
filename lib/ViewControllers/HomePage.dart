@@ -3,6 +3,7 @@ import 'StaggeredView.dart';
 import '../Models/Note.dart';
 import 'NotePage.dart';
 import '../Models/Utility.dart';
+import 'package:cupertino_icons/cupertino_icons.dart';
 
 enum viewType {
   List,

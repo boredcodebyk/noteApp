@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+import 'package:cupertino_icons/cupertino_icons.dart';
 
 class ColorSlider extends StatefulWidget {
   final void Function(Color)  callBackColorTapped ;

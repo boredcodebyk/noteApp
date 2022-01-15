@@ -4,8 +4,9 @@ import '../Models/SqliteHandler.dart';
 import 'dart:async';
 import '../Models/Utility.dart';
 import '../Views/MoreOptionsSheet.dart';
-import 'package:share/share.dart';
+import 'package:share_plus/share_plus.dart';
 import 'package:flutter/services.dart';
+import 'package:cupertino_icons/cupertino_icons.dart';
 
 class NotePage extends StatefulWidget {
   final Note noteInEditing;
